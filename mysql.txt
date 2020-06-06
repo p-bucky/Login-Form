@@ -1,0 +1,2 @@
+CREATE TABLE Login ( username VARCHAR(255), password VARCHAR(255))
+CREATE TABLE Login ( name VARCHAR(255), username VARCHAR(255), password VARCHAR(255))
